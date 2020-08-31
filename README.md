@@ -1,6 +1,9 @@
 # Practica
 Curso de Git para iniciados
-Cambio hecho nada mas y nada menos que por Roberto
+Creacion de una nueva rama con git checkout -b nombre
 
-Tercer Cambio
-Estoy en la rama Alvaro
+git checkout para cambiar de rama
+
+git status es para saber en que rama se encuentra
+
+Rama creada por Diego 
