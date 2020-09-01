@@ -1,0 +1,10 @@
+//first code practic 
+public class GuessStatisticsMessage 
+{
+    private String number;
+    private String verb;
+    private String pluralModifier
+
+    // in progress
+
+}
