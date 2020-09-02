@@ -6,4 +6,7 @@ git checkout para cambiar de rama
 
 git status es para saber en que rama se encuentra
 
+nueva actualizacion
+Gitflow workflow
+
 Rama creada por Diego 
